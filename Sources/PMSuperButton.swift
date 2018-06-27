@@ -189,7 +189,7 @@ open class PMSuperButton: UIButton {
     
     //MARK: - Loading
     public lazy var indicator: UIActivityIndicatorView = {
-        return UIActivityIndicatorView(activityIndicatorStyle: UIActivityIndicatorViewStyle.gray)
+        return UIActivityIndicatorView(activityIndicatorStyle: UIActivityIndicatorViewStyle.white)
     }()
     
     /**
